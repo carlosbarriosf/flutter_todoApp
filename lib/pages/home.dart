@@ -141,7 +141,7 @@ class _HomeState extends State<Home> {
                   ),
                 ),
 
-            const SizedBox(height: 12),
+            const SizedBox(height: 24),
             Text(
               "Completed Tasks",
               style: TextStyle(
